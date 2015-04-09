@@ -95,7 +95,7 @@ select
 	padding:0;
 	width: 780px;
 	height: 180px;
-	background-image: url(http://dangpzanco.github.io/pudim/SiteBuilder/Templates/Pessoal03/Pessoal03Palha/imagens/tc_contrutor_template03_pessoal_palha_topo.jpg);
+	background-image: url(SiteBuilder/Templates/Pessoal03/Pessoal03Palha/imagens/tc_contrutor_template03_pessoal_palha_topo.jpg);
 	background-repeat: no-repeat;
 	z-index: 100;
 }
@@ -111,7 +111,7 @@ select
 	position: relative;
 	width: 780px;
 	height: 53px;
-	background-image: url(http://dangpzanco.github.io/pudim/SiteBuilder/Templates/Pessoal03/Pessoal03Palha/imagens/tc_contrutor_template03_pessoal_palha_menu.gif);
+	background-image: url(SiteBuilder/Templates/Pessoal03/Pessoal03Palha/imagens/tc_contrutor_template03_pessoal_palha_menu.gif);
 	background-repeat: no-repeat;
 	z-index:200;
 }
@@ -141,7 +141,7 @@ select
 	width: 780px;
 	height: 60px;
 	color: White;
-	background-image: url("http://dangpzanco.github.io/pudim/SiteBuilder/Templates/Pessoal03/Pessoal03Palha/imagens/tc_contrutor_template03_pessoal_palha_rodape.gif");
+	background-image: url(SiteBuilder/Templates/Pessoal03/Pessoal03Palha/imagens/tc_contrutor_template03_pessoal_palha_rodape.gif);
 	background-repeat: no-repeat;
 }
 
