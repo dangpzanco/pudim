@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<gallery>
+  <settings>
+    <frameSize>1</frameSize>
+    <frameColor>0x999999</frameColor>
+    <cornerRadius>0</cornerRadius>
+    <backgroundColor>0xF0F0F0</backgroundColor>
+    <initialState>Show Albums</initialState>
+    <showCaption>Always</showCaption> 
+    <dropShadow>true</dropShadow>
+    <captionBackgroundAlpha>41</captionBackgroundAlpha>
+    <captionBackgroundCornerRadius>4</captionBackgroundCornerRadius>
+    <buttonsBackgroundAlpha>41</buttonsBackgroundAlpha>
+    <buttonsBackgroundCornerRadius>4</buttonsBackgroundCornerRadius>
+    <showButtons>Always</showButtons> 
+    <showAlbumsButton>true</showAlbumsButton>
+    <showThumbnailsButton>true</showThumbnailsButton>
+    <showSlideshowButton>true</showSlideshowButton>
+    <showNavigationButton>true</showNavigationButton>
+    <rotationDirection>Vertical CW</rotationDirection>
+    <rotationDuration>700</rotationDuration>
+    <panelBackgroundAlpha>43</panelBackgroundAlpha>
+    <iconWidth>90</iconWidth>
+    <iconHeight>55</iconHeight>
+    <iconPadding>10</iconPadding>
+    <imageScaleMode>Fit</imageScaleMode>
+  </settings>
+  <albums>
+  </albums>
+  </gallery>

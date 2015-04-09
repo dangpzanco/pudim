@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu>
+  <script></script>
+  <style>
+    <style>
+      .dv_position{float:left; padding-right:12px; font-family: Arial; font-size: 10px; color: White; font-weight: bold;}
+    </style>
+  </style>
+  <contentMenu>
+    <div class="dv_position">
+      <table>
+        <tr valign="top">
+          <td>
+            <img src="/SiteBuilder/Templates/Pessoal03/Pessoal03Palha/imagens/tc_contrutor_template03_pessoal_palha_icon.gif"></img>
+          </td>
+          <td>{NOME_PAGINA}</td>
+        </tr>
+      </table>
+    </div>
+  </contentMenu>
+</menu>
+

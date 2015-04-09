@@ -1,0 +1,162 @@
+﻿	/* ---------------------------------------------------- */
+/* GERAL */
+body
+{
+	font-size: 11px;
+	font-family: arial;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+	margin: 0;
+	padding: 0;	
+	background-color:#D0D0D0;
+}
+html > body
+{
+	font-size: 11px;
+	font-family: arial;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+	margin: 0;
+	padding: 0;
+}
+img
+{
+	border: 0;
+}
+/* FORM */
+form
+{
+	margin: 0;
+}
+input
+{
+	font-size: 11px;
+	font-family: arial;
+	font-weight: normal;
+	color: #666666;
+}
+textarea
+{
+	font-size: 11px;
+	font-family: arial;
+	font-weight: normal;
+	color: #666666;
+	text-align: left;
+}
+select
+{
+	font-size: 11px;
+	font-family: arial;
+	font-weight: normal;
+	color: #666666;
+	text-align: left;
+}
+
+#SiteBuilder_Menu a:link, 
+#SiteBuilder_Menu a:visited, 
+#SiteBuilder_Menu a:active
+{
+	color: White;
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	text-decoration: none;
+}
+#SiteBuilder_Menu a:hover
+{
+	text-decoration: none;
+	color: #F0F0F0;
+}
+
+/* ---------------------------------------------------- */
+/* ESTRUTURA */
+#SiteBuilder_Principal
+{
+	position: relative;
+	width: 780px;
+	left: 50%;
+	margin-left: -390px;
+		
+	border-left: 1px solid #999999;
+	border-right: 1px solid #999999;
+	border-bottom:1px solid #999999;
+	background-color:White;
+}
+#SiteBuilder_Visualizacao
+{
+	position: relative;
+	width: 100%;
+}
+#SiteBuilder_Topo
+{
+	position: relative;
+	padding:0;
+	width: 780px;
+	height: 180px;
+	background-image: url(/SiteBuilder/Templates/Pessoal03/Pessoal03Palha/imagens/tc_contrutor_template03_pessoal_palha_topo.jpg);
+	background-repeat: no-repeat;
+	z-index: 100;
+}
+#SiteBuilder_Logo
+{
+	position: absolute;
+	left: 550px;
+	top: 50px;
+}
+
+#SiteBuilder_Menu
+{
+	position: relative;
+	width: 780px;
+	height: 53px;
+	background-image: url(/SiteBuilder/Templates/Pessoal03/Pessoal03Palha/imagens/tc_contrutor_template03_pessoal_palha_menu.gif);
+	background-repeat: no-repeat;
+	z-index:200;
+}
+
+#SiteBuilder_Menu_Area
+{
+	padding:20px 0px 0px 5px;
+}
+
+#SiteBuilder_TbConteudo
+{
+	width: 100%;
+	height: 350px;
+	background-repeat: repeat-x;
+}
+
+#SiteBuilder_Conteudo
+{
+	position: relative;
+	width: 97%;
+	padding: 10px;
+}
+
+#SiteBuilder_Rodape
+{
+	position: relative;
+	width: 780px;
+	height: 60px;
+	color: White;
+	background-image: url("/SiteBuilder/Templates/Pessoal03/Pessoal03Palha/imagens/tc_contrutor_template03_pessoal_palha_rodape.gif");
+	background-repeat: no-repeat;
+}
+
+.div_RodapeViewMode
+{
+	position: absolute;
+	top: 35px;
+	left: 20px;
+	width: 690px;
+}
+
+#dv_position_formulario
+{
+	margin-left: 40px;
+	margin-top: 40px;
+}
+
+/* ---------------------------------------------------- */
