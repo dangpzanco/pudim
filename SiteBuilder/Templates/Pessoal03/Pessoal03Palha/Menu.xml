@@ -11,7 +11,7 @@
       <table>
         <tr valign="top">
           <td>
-            <img src="/SiteBuilder/Templates/Pessoal03/Pessoal03Palha/imagens/tc_contrutor_template03_pessoal_palha_icon.gif"></img>
+            <img src="SiteBuilder/Templates/Pessoal03/Pessoal03Palha/imagens/tc_contrutor_template03_pessoal_palha_icon.gif"></img>
           </td>
           <td>{NOME_PAGINA}</td>
         </tr>
